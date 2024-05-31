@@ -8,7 +8,7 @@ background: '/img/posts/bg/04.jpg'
 
 No Server manager, observe o ícone de notificação com uma atenção amarela na parte superior direita da janela. Clique neste ícone para abrir a área de notificações.
 
-![Notificação](/img/posts/img-04/1.PNG)
+![Notificação](/img/posts/img-04/01.PNG)
 
 Na área de notificações, você verá uma mensagem indicando que o Serviço de Domínio Active Directory foi instalado. Clique na opção Promover este servidor a um controlador de domínio para iniciar o assistente de configuração.
 
